@@ -8,7 +8,7 @@ Welcome to Tailslide, a light-weight feature flag management tool with built-in 
 
 Tailslide is a self-hosted application that can be installed on your own server and run with just a single command.
 
-Click [here](https://github.com/tailslide-io/documentation) for full documentation.
+Click [here](https://tailslide-io.github.io/documentation/) for full documentation.
 
 Tailslide's case study can be found [here](https://tailslide-io.github.io//).
 
