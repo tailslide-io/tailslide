@@ -1,3 +1,5 @@
+![logo_color](https://user-images.githubusercontent.com/73451363/187207442-bae7ea26-7eac-4cab-8806-42779629c653.png)
+
 # Tailslide
 
 Welcome to Tailslide, a light-weight feature flag management tool with built-in circuit breaking.
