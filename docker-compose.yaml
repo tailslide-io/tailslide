@@ -18,7 +18,7 @@ services:
     env_file: ./.env
     restart: always
     depends_on: 
-      - tower-server
+      - tower
       - nats
       - redis
     environment:
